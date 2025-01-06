@@ -1,4 +1,4 @@
-# Flutter Mobile UI Clone
+# Tour Place Mobile UI Clone
 
 ## Project Description
 This is a personal Flutter mobile UI clone project aimed at honing my Flutter development skills by replicating a beautiful design from Figma. The project is intended purely for learning purposes and is not meant for commercial use.
