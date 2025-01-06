@@ -1,18 +1,20 @@
 # Flutter Mobile UI Clone
 
 ## Project Description
-A personal Flutter mobile UI clone project created for learning purposes, not for commercial use.
+This is a personal Flutter mobile UI clone project aimed at honing my Flutter development skills by replicating a beautiful design from Figma. The project is intended purely for learning purposes and is not meant for commercial use.
 
-## Technologies
+## 🛠️ Technologies
 - Flutter 3.24.1
 - Dart 3.5.1
 
-## Features
-- Pixel-perfect Figma design reproduction
-- Responsive Flutter UI
-- Non-commercial learning project
+## ✨ Features
+- Pixel-perfect Design: Faithful reproduction of the Figma design.
 
-## Setup
+- Responsive UI: Works seamlessly across different screen sizes.
+
+- Learning-Oriented: A non-commercial project for personal growth.
+
+## 🚀 Setup
 ```bash
 git clone https://github.com/hamdyhaggag/tour_place.git
 cd tour_place
@@ -20,7 +22,7 @@ flutter pub get
 flutter run
 ```
 
-## UI
+## 📱 UI
 
 <div style="display: flex; justify-content: space-between;">
   
@@ -34,14 +36,35 @@ flutter run
 
 </div>
 
-## Design Source
+## 🎨 Design Source
 - **Figma Design**: https://www.figma.com/community/file/1312412101692159204/tourplace-travel-app-ui-kit-free
 
 ## License
 MIT License
+```
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 
-
-## Contact
+## 📧 Contact
+For any inquiries or feedback, feel free to reach out:
 Hamdy Haggag
-hamdyhaggag74@gmail.com
+Email: hamdyhaggag74@gmail.com
